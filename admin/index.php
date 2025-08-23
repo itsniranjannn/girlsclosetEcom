@@ -1,5 +1,5 @@
 <?php
-// admin/index.php
+// admin/index.php for admin use
 session_start();
 include '../db_connection.php';
 
