@@ -1,5 +1,5 @@
 <?php
-// index.php
+// index.php for all user
 include 'db_connection.php';
 session_start();
 
