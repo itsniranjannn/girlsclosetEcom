@@ -1,5 +1,6 @@
 <?php
-// admin/products.php
+// admin/products.php for adding deleting and editing
+
 include '../db_connection.php';
 session_start();
 
