@@ -1,5 +1,5 @@
 <?php
-// admin/users.php
+// admin/users.php for managing users 
 include '../db_connection.php';
 session_start();
 
