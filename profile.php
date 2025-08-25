@@ -1,5 +1,5 @@
 <?php
-// profile.php
+// profile.php has functionality to change password alsoooo
 include 'db_connection.php';
 session_start();
 
